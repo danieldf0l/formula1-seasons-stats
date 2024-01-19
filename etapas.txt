@@ -1,6 +1,10 @@
-1. Definição de fontes
-2. Seleção de temporadas 
-3. Definir parâmetros, e dados para análise
-4.
-5.
-6.
+ELEMENTOS BI:
+
+PILOTOS
+Seletor de temporadas (anos)
+mapa de nacionalidade dos pilotos 
+TOP pilotos com mais voltas rápidas
+pilotos com mais vitórias
+
+CIRCUITOS
+Mapa de nacionalidade dos construtores
